@@ -1,3 +1,10 @@
-# Игра "Виселица" на Python с графическим интерфейсом на Tkinter
-![Untitled](https://github.com/natkaida/hangman_game/assets/85797091/6672733d-fd02-477e-87c1-c13507465443)
-![Untitled2](https://github.com/natkaida/hangman_game/assets/85797091/87c189bc-9194-4a22-b709-8e46e07d8e33)
+# Игра "Виселица" на Python 
+## Hangman с графическим интерфейсом на Tkinter
+
+Слова (и подсказки - определения слов) загружаются из json-файла.
+
+Скрины:
+![Untitled](https://github.com/natkaida/hangman_game/assets/85797091/7652cbfd-08a4-48cb-9ce7-d4bcab2c5e36)
+
+
+![Untitled2](https://github.com/natkaida/hangman_game/assets/85797091/08bd7799-abeb-4ee3-9024-15a9d70b76b7)
